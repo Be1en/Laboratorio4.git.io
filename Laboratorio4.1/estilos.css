@@ -1,0 +1,53 @@
+main-wrapper{
+    height: 100vh;
+
+}
+
+.section{
+    margin: 0;
+    height: 100%;
+    
+}
+.logo{
+    font-weight: bold;
+    font-size: 7em;
+}
+.menu a{
+    font-weight: 100;
+}
+.roundItem{
+    width: 22px;
+    height: 22px;
+    border-radius: 100%;
+    position: relative;
+}
+.lineUp{
+    width: 26px;
+    height: 4px;
+    background-color: black;
+    position:absolute;
+    transform: rotate(90deg);
+    bottom: 30px;
+    left: -4px;
+}
+.year{
+    position:absolute;
+    right: 25px;
+    font-size: 0.8em;
+}
+.timeline{
+    margin-left: 5em;
+}
+
+.col{
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+.list{
+    font-family: 'Courier New', Courier, monospace;
+}
+.subtitle{
+    background-color: rgba(247, 109, 134  ,.7); color: rgb(255, 255, 255); font-family: 'Courier New', Courier, monospace; letter-spacing: 0.25em;
+    text-align: center;
+}

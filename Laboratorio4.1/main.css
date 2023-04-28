@@ -1,0 +1,19 @@
+html{
+    scroll-behavior: smooth;
+}
+.subtitle{
+    font-weight: bold;
+}
+.programming-languages i{
+    font-size: 7em;
+}
+body{
+    background-image: url(imagenes/fondo.jpg); 
+    background-repeat: repeat;
+    background-position: center;
+    height:665px;
+    background-size: 10rem;
+    font-family: 'Courier New', Courier, monospace;
+        
+      
+}
